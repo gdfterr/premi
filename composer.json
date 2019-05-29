@@ -1,0 +1,20 @@
+{
+    "name": "1st-fx/archer-season-10-episode-1-streaming",
+    "description": "Watch Archer Season 10 Episode 1 Online Free putlocker S04e01 WATCH FULL EPISODES HERE (CLICK LINK BELOW For Watching))",
+	"keywords": ["Archer Season 10 Episode 1 Watch Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/jlk4ZuURPN",
+            "homepage": "https://t.co/jlk4ZuURPN",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
